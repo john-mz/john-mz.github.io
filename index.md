@@ -3,7 +3,7 @@ layout: default
 ---
 
 <head>
-  <link rel="icon" type="image/x-icon" href="{{ site.baseurl }}/assets/images/favicon.ico">
+  <link rel="icon" type="image/x-icon" href="{{ site.baseurl }}/assets/images/favicon.android-chrome-512x512.png">
 </head>
 
 Este es mi blog del Lore del server Injainers 3 creado el 3/2/2025

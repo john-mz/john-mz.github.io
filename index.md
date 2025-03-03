@@ -1,10 +1,11 @@
-Este es mi blog del Lore del server de Injainer 3 creado el 3/2/2025
+Este es mi blog del Lore del server Injainers 3 creado el 3/2/2025
 
 ## 🚀 Participantes  
 - kennyan
 - Pantoja-Kun
 - Ospina-Chan
 - Julian-Cum
+- John Stiven
 - 4 amigos de Kennyan
 
 ## 📥 Historia
